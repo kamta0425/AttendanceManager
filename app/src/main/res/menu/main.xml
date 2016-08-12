@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="attendance.Manager.MainActivity" >
+
+     <item
+        android:id="@+id/report"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/report"/>
+    
+     <item
+        android:id="@+id/attendAll"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/attendAll"/>
+     
+    <item
+        android:id="@+id/bunkAll"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/bunkAll"/>
+    
+    
+    
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/deleteAll"/>
+
+</menu>

@@ -1,0 +1,581 @@
+[
+    {
+        "outputFile": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 50,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 50,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 49,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 49,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 52,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 52,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 35,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 35,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 55,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 55,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 41,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 41,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 48,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1189,
+                        "endColumn": 48,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 51,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 51,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 58,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 5,
+                        "startOffset": 604,
+                        "endColumn": 59,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 37,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 37,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 44,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 44,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 56,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 5,
+                        "startOffset": 720,
+                        "endColumn": 57,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 41,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1101,
+                        "endColumn": 41,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endColumn": 48,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 48,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 59,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 59,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 53,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 53,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 962,
+                    "endColumn": 37,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 37,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 41,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 860,
+                        "endColumn": 41,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endColumn": 49,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 49,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 52,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1297,
+                        "endColumn": 52,
+                        "endOffset": 1345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 39,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 39,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 46,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 46,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1232,
+                    "endColumn": 43,
+                    "endOffset": 1271
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1144,
+                        "endColumn": 43,
+                        "endOffset": 1183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1276,
+                    "endColumn": 56,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1239,
+                        "endColumn": 56,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 39,
+                    "endOffset": 1368
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endColumn": 39,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1373,
+                    "endColumn": 52,
+                    "endOffset": 1421
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 665,
+                        "endColumn": 53,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1426,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1712
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1717,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 1872
+                },
+                "from": {
+                    "file": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

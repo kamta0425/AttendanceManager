@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wrong.jpg",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\drawable-hdpi\\wrong.jpg"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_button_red.xml",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\drawable-hdpi\\round_button_red.xml"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_button_green.xml",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\drawable-hdpi\\round_button_green.xml"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.jpg",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\drawable-hdpi\\right.jpg"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\custome_edittext_style.xml",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\drawable-hdpi\\custome_edittext_style.xml"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attendance.jpg",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\drawable-hdpi\\attendance.jpg"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\custome_edittext.xml",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\drawable-hdpi\\custome_edittext.xml"
+    }
+]

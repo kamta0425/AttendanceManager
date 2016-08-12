@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modify_attendance.xml",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\layout\\modify_attendance.xml"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\subject.xml",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\layout\\subject.xml"
+    },
+    {
+        "merged": "F:\\ProjectAndroid\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fade_in.xml",
+        "source": "F:\\ProjectAndroid\\AttendanceManager\\app\\src\\main\\res\\layout\\fade_in.xml"
+    }
+]

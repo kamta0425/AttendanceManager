@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="10sp"
+    android:id="@+id/rl" >
+
+    <TextView
+        android:id="@+id/Attend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/attend"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/Total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/et_t"
+        android:layout_alignBottom="@+id/et_t"
+        android:layout_alignParentLeft="true"
+        android:text="@string/total"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/et_a"
+        android:layout_width="wrap_content"
+        android:layout_height="30sp"
+        android:maxLength="3"
+        android:layout_alignBaseline="@+id/Attend"
+        android:layout_alignBottom="@+id/Attend"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="14dp"
+        android:background="@drawable/custome_edittext_style"
+        android:ems="10"
+        android:inputType="number"
+        android:textColor="#000000" />
+
+    <EditText
+        android:id="@+id/et_t"
+        android:maxLength="3"
+        android:layout_width="wrap_content"
+        android:layout_height="30sp"
+        android:layout_alignLeft="@+id/et_a"
+        android:layout_below="@+id/et_a"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/custome_edittext_style"
+        android:ems="10"
+        android:inputType="number"
+        android:textColor="#000000" />
+
+</RelativeLayout>
